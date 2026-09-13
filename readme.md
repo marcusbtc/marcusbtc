@@ -4,8 +4,6 @@ Full-stack software engineer designing and operating production systems across h
 
 My scope covers data models, APIs, authentication, payments, webhook processing, third-party integrations, test automation, CI/CD, and production diagnostics. I work primarily with Python, TypeScript, Javascript, Next.js, Node.js, Payload CMS, PostgreSQL, Shopify APIs, Supabase, S3-compatible storage, and Docker.
 
-My background in SEO and digital marketing informs the content models, analytics, and acquisition infrastructure around these products.
-
 ---
 
 ## Projects
@@ -16,9 +14,9 @@ Next.js App Router storefront backed by Shopify Storefront and Admin APIs. I imp
 
 ---
 
-### [Everhound](https://everhound.com/) — Next.js + Shopify subscription commerce
+### [Everhound](https://everhound.com/) — Shopify Liquid implementation
 
-Next.js 16 and React 19 storefront using Shopify GraphQL for catalog, cart, checkout, and selling plans. I implemented signed cart cookies, approved checkout hosts, configuration-gated transactions, subscription and bundle validation, structured data, accessibility checks, and Playwright coverage for desktop and mobile purchase flows.
+Built the ecommerce storefront with Next.js, React, and TypeScript, then developed its Shopify Liquid implementation. Created responsive homepage, product detail, and Science pages, reusable UI components, and Shopify API integrations.
 
 ---
 
@@ -48,7 +46,7 @@ Next.js Website organized around solutions, industries, case studies, resources,
 
 ## Technical stack
 
-**Languages:** TypeScript · JavaScript · Python · SQL<br>
+**Languages:**  Python · TypeScript · JavaScript · SQL<br>
 **Frontend:** Next.js · React · Tailwind CSS<br>
 **Backend & data:** Node.js · Hono · FastAPI · Payload CMS · PostgreSQL · Supabase · Redis<br>
 **Platforms & infrastructure:** Shopify · Docker · S3/MinIO · GitHub Actions · Webhooks<br>
