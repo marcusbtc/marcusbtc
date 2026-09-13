@@ -55,9 +55,3 @@ Next.js Website organized around solutions, industries, case studies, resources,
 **AI & automation:** OpenAI · Claude · Gemini · OpenRouter · n8n<br>
 **Quality:** Playwright · type checking · ESLint · automated smoke tests
 
----
-
-## Contact
-
-- [LinkedIn](https://linkedin.com/in/marcusbtc)
-- [Email](mailto:marcusbarbosaga@gmail.com)
